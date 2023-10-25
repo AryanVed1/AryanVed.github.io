@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-background: '/img/06.jpg'
+background: '/img/bg-post.jpg'
 ---
 
 Hi my name is Aryan Ved and I am currently studying Computer Science at Ontario Tech University.
